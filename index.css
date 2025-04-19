@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+	themes: dim --default;
+}
+
+html {
+	min-width: 352px;
+}
