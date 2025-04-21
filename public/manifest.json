@@ -17,6 +17,6 @@
 			"run_at": "document_idle"
 		}
 	],
-	"permissions": ["scripting", "storage"],
+	"permissions": ["storage"],
 	"host_permissions": ["https://www.youtube.com/*"]
 }
